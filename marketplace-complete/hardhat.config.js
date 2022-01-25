@@ -23,7 +23,7 @@ task("accounts", "Prints the list of accounts", async () => {
   },
   networks: {
     hardhat: {
-      chainId: 1337
+      chainId: 4
     }
   }
 };
